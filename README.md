@@ -1,6 +1,8 @@
 # NotFancyAppChallenge
 
 ## About the challenge
+This challenge was originally created by @samanthaming .
+
 "This challenge is all about learning by doing. The rule, it must be completed within 24hrs. Anything more, it’s too fancy 😜 Join me!" @samanthaming
 
 
